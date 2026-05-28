@@ -90,7 +90,70 @@ The helicopter schedule is the constraint that shapes everything. The official A
       <p><strong>Why choose it:</strong> Apatani valley, paddy landscapes and less altitude stress.</p>
     </div>
   </article>
+  <article class="option-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Close_wing_mud-puddling_of_Hebomoia_glaucippe_Linnaeus%2C_1758_%E2%80%93_Great_Orange-tip_Butterflies_of_Pakke_-_7.jpg" alt="Butterflies at Pakke Tiger Reserve">
+    <div>
+      <h3>G. Pakke / Pakhui Wildlife Add-On</h3>
+      <p class="score-row"><span>Worthwhile add-on</span><span>Near gateway</span><span>Wildlife</span></p>
+      <p>The official Tezpur-Seijosa-Bhalukpong-Tipi circuit is a short 2-day wildlife loop around Pakke Tiger Reserve and Bhalukpong.</p>
+      <p><strong>Why choose it:</strong> It can replace a Guwahati buffer if the family wants forests, hornbills, river scenery and a softer start before the Tawang climb.</p>
+    </div>
+  </article>
+  <article class="option-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/03/AR5Siang_banks_at_Pasighat.jpg" alt="Siang river banks at Pasighat">
+    <div>
+      <h3>H. Siang / Tuting Adventure Circuit</h3>
+      <p class="score-row"><span>Adventure</span><span>Separate trip</span><span>River country</span></p>
+      <p>The official Pasighat-Jengging-Yingkiong-Tuting circuit is a 3-day Siang route with rafting, river islands and Upper Siang scenery.</p>
+      <p><strong>Why choose it:</strong> It is the best non-Tawang adventure alternative. <strong>Why hesitate:</strong> it does not combine cleanly with Tawang or Mechuka.</p>
+    </div>
+  </article>
+  <article class="option-card">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Butterflies%2C_Namdapha_National_Park%2C_Arunachal_Pradesh%2C_India_%282013%29_1476.jpg" alt="Butterflies in Namdapha National Park">
+    <div>
+      <h3>I. Namdapha / Pangsau Future Trip</h3>
+      <p class="score-row"><span>Far east</span><span>Wildlife</span><span>WWII route</span></p>
+      <p>Namdapha and the Jairampur-Nampong-Pangsau Pass circuit are excellent on paper: rainforest, Stilwell Road history and the India-Myanmar edge.</p>
+      <p><strong>Why choose it:</strong> For a future Dibrugarh/Tinsukia-based trip. <strong>Why hesitate:</strong> too far from this Tawang-first window.</p>
+    </div>
+  </article>
 </div>
+
+## Official Circuit Scan
+
+The DIPR page and the Arunachal Tourism site both frame the state as **14 tourist circuits**. That is useful because it confirms the big picture: Tawang, Mechuka, Ziro, Siang, Anini, Namdapha and Pangsau are not random points on a map; they sit inside different official corridors with different gateways.
+
+> [!DECISION]
+> The official-circuit scan does **not** change the main recommendation. It strengthens it. For this date pattern, **Tezpur/Bhalukpong/Bomdila/Dirang/Tawang** is the only circuit that naturally matches the family goal, the Guwahati gateway and the helicopter-out idea. The worthwhile additions are a possible **Pakke/Pakhui wildlife buffer** near Bhalukpong, plus clearer "future trip" labels for Siang, Anini, Namdapha and Pangsau.
+
+| Official circuit | What it adds | Fit for Oct 3-11 family trip |
+| --- | --- | --- |
+| Tezpur-Bhalukpong-Bomdila-Dirang-Tawang | The official Tawang road corridor; Arunachal Tourism calls out Tawang Monastery, Sela Pass, hot springs, landscapes and culture | **Best fit.** This is the road-in half of the recommended plan |
+| Tezpur-Seijosa/Pakhui-Bhalukpong-Tipi | Pakke Tiger Reserve, orchids, Bhalukpong fort/river; official itinerary suggests 2 days | **Worth considering** only as a gentle wildlife buffer before Tawang |
+| Itanagar-Ziro-Daporijo-Aalo-Pasighat | Capital, Ziro, Subansiri, Aalo and Pasighat; official itinerary suggests 4 days | Good alternate if skipping Tawang; awkward with Mechuka unless extended |
+| Aalo-Mechuka | The official Mechuka corridor from Aalo; official page highlights valley, snow views, springs and Samten Yongcha monastery | **Worthwhile only as a Mechuka-first trip**, especially with the Monday/Friday helicopter pattern |
+| Pasighat-Jengging-Yingkiong-Tuting | Siang River, Daying Ering Wildlife Sanctuary, rafting and Upper Siang scenery; official itinerary suggests 3 days | Strong adventure alternative, not a Tawang add-on |
+| Tinsukia-Tezu-Hayuliang-Walong-Dong | Namsai/Tezu/Hayuliang, Walong War Memorial and Dong first-sunrise country | Strong defence-history alternate; keep separate from Tawang |
+| Dibrugarh-Roing-Mayudia-Anini | Mayudia, Roing, Sally Lake, Bhismaknagar and Dibang Valley; official itinerary suggests 4 days | Beautiful but remote; future trip |
+| Margherita-Miao-Namdapha-Vijoynagar | Namdapha National Park, Miao, Tibetan camp and rainforest | Future wildlife trip; too far east for this plan |
+| Jairampur-Manmao-Nampong-Pangsau Pass | Stilwell Road, WWII cemetery, Nampong and India-Myanmar edge | Future history/frontier trip; best from Dibrugarh/Tinsukia |
+| Ziro-Palin-Nyapin-Sangram-Koloriang | Interior central Arunachal | Too much road uncertainty for a family trip anchored on Tawang |
+| Daporijo-Taliha-Siyum-Nacho | Upper Subansiri interior | Interesting but too remote for this window |
+| Doimukh-Sagalee-Pakke Kessang-Seppa | Papum Pare/East Kameng interior | Not stronger than Tawang or Pakke for this family brief |
+| Deomali-Hukanjuri-Khonsa | Tirap cultural corridor | Separate eastern trip |
+| Kanubari-Longding | Longding/Wancho belt | Separate eastern trip, not a fit here |
+
+### What I Would Actually Add
+
+If you want one more texture without breaking the Tawang plan, add **Pakke/Pakhui only if you can arrive early on Oct 3**:
+
+| Date | Modified first leg | Sleep |
+| --- | --- | --- |
+| Sat 3 Oct | Fly to Guwahati and drive toward Tezpur/Bhalukpong if arrival is early enough | Tezpur/Bhalukpong |
+| Sun 4 Oct | Early Pakke/Seijosa or Tipi orchid stop, then continue toward Bomdila/Dirang | Dirang |
+| Mon 5 Oct | Dirang to Tawang via Sela, Jaswant Garh and Nuranang | Tawang |
+
+If the family lands late on Oct 3, skip Pakke. The Tawang approach already has enough road time.
 
 ## Helicopter Reality
 
@@ -323,6 +386,12 @@ For foreign nationals, the relevant permit is a **Protected Area Permit (PAP/RAP
   <div><strong>Mechuka sights</strong><a href="https://shiyomi.nic.in/places-of-interest/">Shi Yomi places of interest</a></div>
   <div><strong>Mechuka stays</strong><a href="https://shiyomi.nic.in/accommodation/">Shi Yomi accommodation page</a></div>
   <div><strong>ILP</strong><a href="https://www.eilp.arunachal.gov.in/preTuristEIlpKYC">Official tourist eILP portal</a></div>
+  <div><strong>Official circuits</strong><a href="https://arunachalipr.gov.in/index.php/tourist-circuit-2/">DIPR tourist circuit index</a> and <a href="https://arunachaltourism.com/">Arunachal Tourism circuit index</a></div>
+  <div><strong>Tawang circuit</strong><a href="https://arunachaltourism.com/tezpur-bhalukpong-bomdila-tawang-package/">Tezpur-Bhalukpong-Bomdila-Tawang package</a></div>
+  <div><strong>Pakke circuit</strong><a href="https://arunachaltourism.com/tezpur-seijosapakhui-bhalukpong-tipi/">Tezpur-Seijosa/Pakhui-Bhalukpong-Tipi package</a></div>
+  <div><strong>Central circuit</strong><a href="https://arunachaltourism.com/itanagar-ziro-daporijo-aalo-pasighat-package/">Itanagar-Ziro-Daporijo-Aalo-Pasighat package</a></div>
+  <div><strong>Siang circuit</strong><a href="https://arunachaltourism.com/pasighat-jengging-yingkiong-tuting-2/">Pasighat-Jengging-Yingkiong-Tuting package</a></div>
+  <div><strong>Eastern circuits</strong><a href="https://arunachaltourism.com/tinsukia-tezu-hayuliang-package/">Tinsukia-Tezu-Hayuliang</a>, <a href="https://arunachaltourism.com/dibrugarh-roing-mayudia-anini-pakcage/">Roing-Mayudia-Anini</a>, <a href="https://arunachaltourism.com/margherita-miao-namdhapa-vijoynagar-package/">Namdapha</a>, and <a href="https://arunachaltourism.com/jairampur-manmao-nampong-pangsau-pass/">Pangsau Pass</a></div>
   <div><strong>Anjaw frontier option</strong><a href="https://anjaw.nic.in/tourist-places/">Anjaw tourist places</a> and <a href="https://anjaw.nic.in/tourist-place/kaho/">Kaho page</a></div>
   <div><strong>Renderer reference</strong><a href="https://github.com/kush0511/pct-section-j-field-guide">kush0511/pct-section-j-field-guide</a></div>
 </div>
